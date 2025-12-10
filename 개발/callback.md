@@ -1,9 +1,7 @@
 콜백함수는 
 
 
-```js
-
-
+```
 import { useState } from "react";
 
 function Counter() {
@@ -22,6 +20,9 @@ function Counter() {
 }
 
 export default Counter;
+
+
+```
 
 
 
