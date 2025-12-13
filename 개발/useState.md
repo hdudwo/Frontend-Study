@@ -8,7 +8,7 @@ import { useState } from "react";
 function Counter() {
   const [count, setCount] = useState(0);
 
-  function handlePlus() {
+  function handlePlus() {asdsadsad
     setCount(count + 1);
   }
 

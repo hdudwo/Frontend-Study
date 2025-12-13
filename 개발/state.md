@@ -32,7 +32,7 @@ UI는 state 값과 완전히 동기화됩니다.
 → 값이 바뀌면 화면도 자동으로 바adsadas뀜
 
 바뀌면
-(3) 직접 변경 불가, 반드시 setter 사용
+(3) 직접 변경 불가, 반드시 setter 사용sadasd
 
 React는 state를 직접 수정하면 렌더링을 하지 않기 때문에,
 항상 setState 혹은 useState의 setter 함수를 사용해야 합니다.
